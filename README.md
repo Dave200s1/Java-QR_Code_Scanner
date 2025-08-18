@@ -1,5 +1,5 @@
 # QR-Code Scanner mit GUI - 
-![npm bundle size (version)](https://img.shields.io/badge/version-0.0.1-green) ![npm bundle size (version)](https://img.shields.io/badge/language-Java-red) ![npm bundle size (version)](https://img.shields.io/badge/shell-bash-green)
+![npm bundle size (version)](https://img.shields.io/badge/version-0.0.1-green) ![npm bundle size (version)](https://img.shields.io/badge/language-Java-red) 
 ## Übersicht
 Dies ist eine Java-Anwendung mit grafischer Benutzeroberfläche (GUI) zum Scannen von QR-Codes über die integrierte Webcam. Die App nutzt die ZXing-Bibliothek ("Zebra Crossing") zur QR-Code-Erkennung und die Webcam Capture API für den Kamerazugriff.
 

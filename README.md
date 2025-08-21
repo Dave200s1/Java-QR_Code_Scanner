@@ -29,8 +29,7 @@ Dies ist eine Java-Anwendung mit grafischer Benutzeroberfläche (GUI) zum Scanne
 2. Webcam auf einen QR-Code richten
 3. Der gescannte Inhalt erscheint automatisch im Textfeld
 
-## Screenshot
-![QR-Scanner GUI](screenshot.png) *(Beispielbild einfügen)*
+
 
 ## Build-Anleitung
 ```bash
